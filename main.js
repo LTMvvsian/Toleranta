@@ -644,41 +644,41 @@ function initializeCharts() {
     createDoughnutChart(
         'chart2',
         ['Am tăcut', 'Am spus că nu este bine', 'Am râs și eu'],
-        [45.5, 45.5, 9.1],
+        [36.7, 56.7, 6.6],
         ['#4A6FA5', '#47B881', '#FF6B6B']
     );
     
     createDoughnutChart(
         'chart3',
         ['Da', 'Parțial', 'Nu'],
-        [63.6, 9.1, 27.3],
+        [26.7, 60, 13.3],
         ['#47B881', '#FFB347', '#FF6B6B']
     );
     
     createBarChart(
         'chart4',
         ['Romi', 'Ucraineni', 'Ruși', 'Găgăuzi', 'Bulgari', 'Polonezi'],
-        [77.3, 31.8, 50, 31.8, 0, 0]
+        [83.3, 33.3, 40, 23.3, 0, 0]
     );
     
     createDoughnutChart(
         'chart5',
         ['Da', 'Nu'],
-        [38.1, 61.9],
+        [44.8, 55.2],
         ['#47B881', '#FF6B6B']
     );
     
     createDoughnutChart(
         'chart6',
         ['Nu', 'Da', 'Nu știu'],
-        [18.2, 50, 31.8],
+        [26.7, 50, 23.3],
         ['#FF6B6B', '#47B881', '#FFB347']
     );
     
     createDoughnutChart(
         'chart7',
         ['Da', 'Nu', 'Depinde de persoană'],
-        [27.3, 9.1, 63.6],
+        [30, 10, 60],
         ['#47B881', '#FF6B6B', '#FFB347']
     );
 }
